@@ -1,10 +1,9 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.simonsvoss.ax2go",
-      "sha256_cert_fingerprints": ["6f:d9:09:22:dd:5b:4b:6b:0c:e9:61:6d:97:4e:17:e3:8a:34:c2:9d:4e:b8:6d:c4:86:83:1f:90:4c:c1:52:b2"]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.simonsvoss.testapplink",
+    "sha256_cert_fingerprints":
+    ["E3:95:3F:CD:CF:B6:1C:75:8F:65:0A:E6:08:E8:B0:BA:AB:E8:C2:81:CE:D9:BF:DF:56:2E:EE:E4:43:15:59:01"]
   }
-]
+}]
