@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.simonsvoss.ax2go",
+      "sha256_cert_fingerprints": ["6f:d9:09:22:dd:5b:4b:6b:0c:e9:61:6d:97:4e:17:e3:8a:34:c2:9d:4e:b8:6d:c4:86:83:1f:90:4c:c1:52:b2"]
+    }
+  }
+]
